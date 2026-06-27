@@ -1,0 +1,3 @@
+# Ignorar o executável final do compilador
+main.exe
+.vscode
